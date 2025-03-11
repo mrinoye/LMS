@@ -1,5 +1,6 @@
-# LMS (A group project I did in CSE215)
 # Library Management System
+
+## LMS (A group project I did in CSE215)
 
 Features of the Library Management System:
 The Library Management System has the following features:
